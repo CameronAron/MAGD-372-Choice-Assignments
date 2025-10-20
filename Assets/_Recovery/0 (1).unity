@@ -243,7 +243,7 @@ MonoBehaviour:
   pools:
   - tag: Cube
     prefab: {fileID: 3071633692884627768, guid: 44a4ab07066a0a54882a3e18336fe658, type: 3}
-    size: 250
+    size: 300
 --- !u!4 &549394372
 Transform:
   m_ObjectHideFlags: 0
@@ -253,7 +253,7 @@ Transform:
   m_GameObject: {fileID: 549394370}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 20.7, z: 0}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
