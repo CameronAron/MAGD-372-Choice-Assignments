@@ -17,7 +17,7 @@ GameObject:
   - component: {fileID: 5749231743478219802}
   m_Layer: 0
   m_Name: Player
-  m_TagString: Untagged
+  m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -114,8 +114,6 @@ MonoBehaviour:
   playerSpeed: 5
   jumpHeight: 1.5
   gravityValue: -9.81
-  moveAction: {fileID: -357586557751867281, guid: df720acac1492574794ce9fdb102e0c0, type: 3}
-  jumpAction: {fileID: -6568002791253920619, guid: df720acac1492574794ce9fdb102e0c0, type: 3}
 --- !u!143 &1878602141614457005
 CharacterController:
   m_ObjectHideFlags: 0
